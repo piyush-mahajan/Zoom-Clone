@@ -1,27 +1,3 @@
-# HOW TO BUILD VIDEO CONFERENCING ZOOM CLONE APP
-
-Read the full tutorial here: [**>> HOW TO BUILD VIDEO CONFERENCING ZOOM CLONE APP**](https://www.cometchat.com/tutorials/#)
-
-## Technology
-
-This demo uses:
-
-- CometChat Pro 3.0.0
-- CometChat UI Kit
-- React.js
-- Uuid
-- Validator
-- @emotion/core
-- dateformat
-- emoji-mart
-- react-html-parser
-- twemoji
-- Node.js
-- Express.js
-- MySQL
-- Cors
-- Dotenv
-- Nodemon
 
 ## Running the demo - Client Side.
 
@@ -77,13 +53,3 @@ npx nodemon index.js
 ```
 5. Make sure to include the .env file in your gitIgnore file from being exposed online.
 
-Questions about running the demo? [Open an issue](https://github.com/hieptl/zoom-clone/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [CometChat Homepage](https://app.cometchat.com/signup)
-- 🚀 [Create your free account](https://app.cometchat.com/apps)
-- 📚 [Documentation](https://www.cometchat.com/docs/home/welcome)
-- 👾 [GitHub](https://www.github.com/cometchat-pro)
-- 🔥 [Node.js](https://nodejs.org/en/)
-- 🔷 [React.js](https://reactjs.org/)
