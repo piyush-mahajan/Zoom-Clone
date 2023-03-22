@@ -9,7 +9,7 @@ To run the demo follow these steps:
 4. From the Quick Start copy the **APP_ID, APP_REGION and AUTH_KEY**. These will be used later.
 5. Also copy the **REST_API_KEY** from the API & Auth Key tab.
 6. Navigate to the Users tab, and delete all the default users and groups leaving it clean **(very important)**.
-7. Download the repository [here](https://github.com/hieptl/zoom-clone/archive/main.zip) or by running `git clone https://github.com/hieptl/zoom-clone.git` and open it in a code editor.
+7. Download the repository or by running `git clone https://github.com/hieptl/zoom-clone.git` and open it in a code editor.
 8. Create a file called **.env** in the root folder of your project.
 9. Create the content of the **.env** file as follow.
 
