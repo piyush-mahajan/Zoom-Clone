@@ -1,7 +1,15 @@
+## How the App looks-
+
+![Screenshot (69](https://user-images.githubusercontent.com/98900169/226881714-f257596b-6751-453f-83c9-c1584c03a30b.png)
+![Screenshot (70](https://user-images.githubusercontent.com/98900169/226881724-4a1ad2f3-e50d-473e-921b-7a090fd5922f.png)
+![Screenshot (71](https://user-images.githubusercontent.com/98900169/226881732-64f0f7d4-878e-4630-a557-c1188ddd00da.png)
+![Screenshot (72](https://user-images.githubusercontent.com/98900169/226881737-503d313b-12ac-4047-af76-d53cc9c13b47.png)
+![Screenshot (73](https://user-images.githubusercontent.com/98900169/226881739-fadf6cd4-867f-49bf-80c7-de42f7668cbc.png)
+![Screenshot (74](https://user-images.githubusercontent.com/98900169/226881708-9e49f0e4-70bb-48ad-9c80-142efb931b9b.png)
+
+
 
 ## Running the demo - Client Side.
-![Screenshot (69](https://user-images.githubusercontent.com/98900169/226881370-53de9a49-c3f5-4e9c-9be5-1a24a148e0f0.png)
-
 To run the demo follow these steps:
 
 1. [Head to CometChat Pro and create an account](https://app.cometchat.com/signup)
