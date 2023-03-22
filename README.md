@@ -1,5 +1,6 @@
 
 ## Running the demo - Client Side.
+![Screenshot (69](https://user-images.githubusercontent.com/98900169/226881370-53de9a49-c3f5-4e9c-9be5-1a24a148e0f0.png)
 
 To run the demo follow these steps:
 
